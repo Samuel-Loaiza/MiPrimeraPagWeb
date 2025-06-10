@@ -1,4 +1,4 @@
-prin("hola")
+print("hola")
 var1 = input("agregar cualquier cosa")
 
 print(var1)
